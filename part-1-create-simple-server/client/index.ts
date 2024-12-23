@@ -9,7 +9,7 @@ async function send() {
                 input: {
                     email: "harkirat1@gmail.com",
                     firstname: "harkirat",
-                    lastname: "singh"
+                     lastname: "singh"
                 }
             }, {
                 id: true,
